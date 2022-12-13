@@ -1,0 +1,4 @@
+########## Req. ##########
+PyQt5
+QDarkStyle
+pyqtgraph
